@@ -71,7 +71,7 @@ The `Code` folder contains the firmware source and configuration used to control
 
 - **SolidWorks:** mechanical design, assemblies, and stress analysis
 - **Marlin 2.1.2.5:** printer firmware
-- **Printrun / Slic3r:** printer control and slicing
+- **Printrun/ PrintFace / Slic3r:** printer control and slicing
 
 ---
 
